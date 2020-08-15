@@ -1,0 +1,28 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "The sauce",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "price": "19.90",
+      "description": "Pasta with white sauce, fughi and green mountain scent.",
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Veggie",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "price": "21.90",
+      "description": "Pasta with peppers, peas and fine herbs harvested in the Himalayas.",
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "A la Camarón",
+      "description": "Pasta with first-rate vegetables and shrimp from the 7 seas.",
+      "price": "25.90",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    }
+  ]
+}
